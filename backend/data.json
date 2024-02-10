@@ -40,5 +40,15 @@
       "stack": ["JavaScript", "React", "Node.js", "MongoDB"],
       "id": 21
     }
+    {
+      "name": "Kevin Kinyanjui ",
+      "links": {
+        "github": "https://github.com/vokeh0007",
+        "linkedin": "https://www.linkedin.com/in/kevin-kinyanjui-baa33526a",
+        "twitter": "https://x.com/Kevin17930149"
+      },
+      "stack": ["JavaScript", "React", "Node.js"],
+      "id": 0007
+    }
   ]
 }
